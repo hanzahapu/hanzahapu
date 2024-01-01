@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding & football.
 - 🌱 I’m currently learning java & c++
 - 💞️ I’m looking to collaborate on software & web development projects. 
-- 📫 How to reach me E-Mail: hansaja.20221671@iit.ac.lk.
+- 📫 How to reach me E-Mail: hanzahapujr@gmail.com
 
 <!---
 hanzahapu/hanzahapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
