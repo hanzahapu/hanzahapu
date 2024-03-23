@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanzahapu
 - 👀 I’m interested in coding & football.
-- 🌱 I’m currently learning java & c++
+- 🌱 I’m currently learning NodeJs & c++
 - 💞️ I’m looking to collaborate on software & web development projects. 
 - 📫 How to reach me E-Mail: hanzahapujr@gmail.com
 
