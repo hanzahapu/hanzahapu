@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @hanzahapu
-- 👀 I’m interested in coding & football.
-- 🌱 Exclusive IT Intern @Lyceum Global Holdings 
-- 💞️ I’m looking to collaborate on software & web development projects. 
-- 📫 How to reach me E-Mail: hanzahapujr@gmail.com
+const hanzahapu = {
+  greeting: "Hola! I'm @hanzahapu"
+  interests: ["Coding 💻", "Football ⚽"],
+  experience: " IT Intern @ Lyceum Global Holdings",
+  collaboration: "🤝 Let's team up on software & web projects!",
+  contact: "📩 hanzahapujr@gmail.com"
+};
+
+console.log(`
+${hanzahapu.greeting}
+Interests: ${hanzahapu.interests.join(', ')}
+Experience: ${hanzahapu.experience}
+Collaboration: ${hanzahapu.collaboration}
+Contact: ${hanzahapu.contact}
+`);
 
 <!---
 hanzahapu/hanzahapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
